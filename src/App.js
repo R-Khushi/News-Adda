@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
 
-
+//func
 function App() {  
 
   const [numberOfPost, setnumberOfPost] = useState(0);
