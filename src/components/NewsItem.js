@@ -3,6 +3,10 @@ import React, { useState, useEffect } from 'react';
 
 export default function NewsItem(props) {
 
+  //git test
+  
+
+
   const [postData, setdata] = useState([])
   const newsCategory = props.postCategory;
   // console.log(newsCategory)
